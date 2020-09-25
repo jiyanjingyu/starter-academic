@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jing Ji obtained her MA in Computational Linguistics at Stony Brook after graduating from Peking University. Her current interests lie in the interface between cognition and perception, particularly the interaction between syntax, semantics, and prosody. She wants to apply computational methods to formalizing linguistic processes, understanding speech properties, and making predictions. She has research experience in psycholinguistics, corpus linguistics, mathematical linguistics as well as work experience in NLP.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
