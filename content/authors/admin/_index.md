@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Linguistics
     institution: McGill University
-    year: 2020 - 
+    year: 
   - course: MA in Computational Linguistics
     institution: Stony Brook University
-    year: 2018 - 2020
-  - course: BSc in Artificial Intelligence
-    institution: Shandong University
-    year: 2009 - 2013
+    year: 2020
+  - course: MA in Chinese Linguistics
+    institution: Peking University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
